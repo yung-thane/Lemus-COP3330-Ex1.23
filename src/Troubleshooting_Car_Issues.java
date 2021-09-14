@@ -1,3 +1,9 @@
+/*
+ *  UCF COP3330 Fall 2021 Assignment 1.23 Solution
+ *  Copyright 2021 Ronald Lemus
+ */
+
+
 import java.util.Scanner;
 
 public class Troubleshooting_Car_Issues {
